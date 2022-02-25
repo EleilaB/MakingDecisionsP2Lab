@@ -93,6 +93,7 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 
 //Code Here
 
+var someNum = myFavoriteNumbers[4]
 
 ////////// PROBLEM 7 //////////
 
