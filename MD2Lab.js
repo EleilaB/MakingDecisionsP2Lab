@@ -102,6 +102,14 @@ var someNum = myFavoriteNumbers[4]
 
 //Code Here
 
+if(myFavoriteNumbers.length < 7){
+  console.log('There are not enough elements in this array')
+}else if(myFavoriteNumbers.length > 7){
+  someNum = myFavoriteNumbers[6];
+  console.log(someNum);
+}else{
+  console.log('No provided output')
+}
 
 ////////// PROBLEM 8 //////////
 
